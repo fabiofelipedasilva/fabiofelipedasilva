@@ -12,7 +12,8 @@
  
 ### Me segue também nas redes abaixo!
  
-<div> 
+<div>
+    <a href="https://pub.dev/packages/google_fonts" target="_blank" rel="noopener noreferrer">Abrir em nova aba</a>
   <a href="https://www.linkedin.com/in/fabio-felipe-da-silva-16a2802a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/tubainaskt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/1085271568197877871" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
