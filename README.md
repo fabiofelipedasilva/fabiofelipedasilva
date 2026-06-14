@@ -1,18 +1,37 @@
-## FABIO FELIPE DA SILVA
+# 👩🏻‍💻 Fabio Felipe Da Silva
 
 
-Me chamo Fabio Felipe Da Silva, so de São Paulo/SP 
+
+Me chamo Fabio Felipe da Silva, tenho 40 anos e sou natural de São Paulo. Tenho formação em Análise e Desenvolvimento de Sistemas pela faculdade Drummond e curso técnico em Desenvolvimento de Sistemas pela ETEC. Atualmente trabalho com suporte técncio de T.I. Gosto muito de tecnologia e de aprender novos conhecimentos, estou em busca da minha primeira oportunidade como desenvolvedor/programador e estou disposto a encarar novos desafios.
+<br>
+
+### 🤖 Linguagens e Tecnologias
 
 
-    
-<div style="display: inline_block"><br>
-     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  
-  
-</div>
- 
+<br>
 <br>
  
 ### Me segue também nas redes abaixo!
@@ -24,3 +43,18 @@ Me chamo Fabio Felipe Da Silva, so de São Paulo/SP
   <a href = "https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+<br/>
+<br/>
+
+###  Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fabiofelipedasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
